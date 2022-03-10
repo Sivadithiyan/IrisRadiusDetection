@@ -32,4 +32,8 @@ Progress:
           GitHub Repo was set up for view.
           Looking through online forums and research papers to find a better suiting algorithm to detect the radius of iris.
           Learning about Otzu algorithm, Flooding algorithm and Sobel Algortihm.
+         
+10/03/22: Figured out the radius conversion
+          Need to check whether the results are accourate or not
+          Image processing needs some fine tuning
           
